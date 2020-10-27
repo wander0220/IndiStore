@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-가나다라마바사
+<a href="#">아티스트</a>	|	<a href="#">제품</a>	
+|	<a href="index.jsp">로고</a>	|	계정	|	장바구니
 
 </body>
 </html>

@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>로그인</title>
 <!-- 합쳐지고 최소화된 최신 CSS -->
 <link rel="stylesheet" 
 href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
@@ -12,8 +12,9 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 <body>
 
 <div class="container">
+	<div class="col-xs-4 col-xs-offset-4">
 	<form class="login">
-        <h2 class="form-signin-heading">Please sign in</h2>
+        <h2 class="form-signin-heading">sign in</h2>
         <label for="inputID" class="sr-only">ID</label>
         <input type="id" id="inputID" class="form-control" placeholder="ID" required="" autofocus="">
         
@@ -23,6 +24,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
         <br><br>
         <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
      </form>
+     </div>
 </div>
 
 

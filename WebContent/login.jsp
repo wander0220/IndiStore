@@ -12,9 +12,9 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 <body>
 
 <div class="container">
-	<div class="col-xs-4 col-xs-offset-4">
+	<div class="col-sm-4 col-sm-offset-4">
 	<form class="login">
-        <h2 class="form-signin-heading">sign in</h2>
+        <h2 class="form-signin-heading">로그인</h2>
         <label for="inputID" class="sr-only">ID</label>
         <input type="id" id="inputID" class="form-control" placeholder="ID" required="" autofocus="">
         
@@ -29,7 +29,6 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 
 
 </body>
-
 <!-- 합쳐지고 최소화된 최신 자바스크립트 -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 </html>
